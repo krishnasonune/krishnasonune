@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasonune&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasonune" /> </p>
 <img align="right" alt="Coding" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning **Angular, javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnasonune](https://github.com/krishnasonune)
