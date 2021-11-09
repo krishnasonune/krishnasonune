@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Sonune</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
+<h3> <img width=1000 height=400 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> </h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasonune&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasonune" /> </p>
 <img align="right" alt="Coding" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
