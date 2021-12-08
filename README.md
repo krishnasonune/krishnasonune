@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasonune&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasonune" /> </p>
 <img align="right" alt="Coding" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-- 🌱 I’m currently learning **Angular, javascript**
+- 🌱 I’m currently learning Angular, javascript
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnasonune](https://github.com/krishnasonune)
 
@@ -19,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/krishna-sonune-1421b21b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-sonune-1421b21b5" height="30" width="40" /></a>
 <a href="https://instagram.com/krishna_sonune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_sonune" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/krishna sonune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krishna sonune" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
